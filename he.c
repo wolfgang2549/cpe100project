@@ -1,7 +1,4 @@
 #include <stdio.h>
-
-int main(){
-    printf("asdsdas");
-    printf("hi bro");
-    return 0;
+int main (){
+    printf("test1");
 }
